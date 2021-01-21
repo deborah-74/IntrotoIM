@@ -3,6 +3,7 @@
 ## This is smaller
 ### Even smaller
 *italics*
+
 **this should be bold**
 
 this is a sentence in the same paragraph
