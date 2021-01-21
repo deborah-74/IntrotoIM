@@ -12,3 +12,8 @@ and this likewise
 and this too
 
 this is a new paragraph
+
+In order to add image to a markdown file:
+![]spider.jpg
+or
+![]folder/file.jpg
