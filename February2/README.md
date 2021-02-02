@@ -25,3 +25,5 @@ I really enjoyed completing this assignment, and I am excited to learn how to us
 ### Here is the final product:
 
 ![](https://github.com/deborah-74/IntrotoIM/blob/main/February2/pixelart%20sc.png)
+
+A link to the video: https://youtu.be/Y8xppp3ezso
