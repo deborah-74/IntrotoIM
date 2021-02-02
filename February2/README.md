@@ -22,4 +22,6 @@ I really enjoyed this week'a assignment. Going into this assignment, I had a vag
 
 I really enjoyed completing this assignment, and I am excited to learn how to use several more functions to create art!
 
-![]()
+### Here is the final product:
+
+![](https://github.com/deborah-74/IntrotoIM/blob/main/February2/pixelart%20sc.png)
