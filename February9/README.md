@@ -23,3 +23,5 @@ This week's assignment was very hectic for me. I did not really understand how t
 - I learnt how to successfully use classes
 - I learnt how to use PGraphics and PShapes, even though I did not end up using them in this assignment
 
+![Alt Text]()
+
