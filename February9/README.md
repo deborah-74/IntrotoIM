@@ -22,6 +22,7 @@ This week's assignment was very hectic for me. I did not really understand how t
 - I learnt so much doing this week's assignment
 - I learnt how to successfully use classes
 - I learnt how to use PGraphics and PShapes, even though I did not end up using them in this assignment
+- I learnt how to create an array of objects
 
 ![Alt Text]()
 
