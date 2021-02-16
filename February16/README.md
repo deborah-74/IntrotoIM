@@ -5,7 +5,7 @@ I found this week's assignment quite difficult because the idea of loading a csv
 ## Process
 
 - Firstly, I created a 'bowl' using the ellipse() function
-- Next, I downloaded the csv file and stored it in my folder
+- Next, I downloaded the csv file and stored it in my folder. You can find more fun, beginner-friendly data sets here: https://www.kaggle.com/rtatman/fun-beginner-friendly-datasets
 ![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/February16/cerealTable.png)
 - After, I created an array of strings called cereal[], and loaded the csv file into the array
 - Within the draw function, I created an array of strings called properties[] to store each property of the array
