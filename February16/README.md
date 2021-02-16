@@ -6,6 +6,7 @@ I found this week's assignment quite difficult because the idea of loading a csv
 
 - Firstly, I created a 'bowl' using the ellipse() function
 - Next, I downloaded the csv file and stored it in my folder
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/February16/cerealTable.png)
 - After, I created an array of strings called cereal[], and loaded the csv file into the array
 - Within the draw function, I created an array of strings called properties[] to store each property of the array
 - Then, I split each property of the one random row in the cereal[] array using the split() function
@@ -24,6 +25,5 @@ I found this week's assignment quite difficult because the idea of loading a csv
 ## What I learnt
 
 I learnt a lot while completing this week's assignment. I practiced how to display text on the screen, how to load csv files into arrays and how to split them in different ways. I also experimented with the rotate() function which was fun. With more practice, I am confident that I will become much more comfortable with the concept of data visualisation and be able to execute this nicely. 
-
 
 ![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/February16/cereal.gif)
