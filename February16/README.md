@@ -24,3 +24,6 @@ I found this week's assignment quite difficult because the idea of loading a csv
 ## What I learnt
 
 I learnt a lot while completing this week's assignment. I practiced how to display text on the screen, how to load csv files into arrays and how to split them in different ways. I also experimented with the rotate() function which was fun. With more practice, I am confident that I will become much more comfortable with the concept of data visualisation and be able to execute this nicely. 
+
+
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/February16/cereal.gif)
