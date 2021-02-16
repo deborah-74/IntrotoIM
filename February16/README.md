@@ -1,4 +1,4 @@
-# Week 4 Assingment: Data Visualisation: Cereal
+# Week 4 Assignment: Data Visualisation: Cereal
 
 I found this week's assignment quite difficult because the idea of loading a csv file into an array and splitting it was easy to comprehend, but hard to actually execute in processing. To begin the assignment, I first did research on google to find an interesting dataset. I came across a csv file about different brands of cereal and their properties i.e name, calories, sugar, fat etc. I thought it would be interesting to display the text using a specific colour, size and font depending on three of the cereal's properties.
 
