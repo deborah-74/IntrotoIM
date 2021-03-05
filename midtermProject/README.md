@@ -27,4 +27,23 @@ This is going to be a long section. Creating this game was extremely difficult, 
 
 ### Wrong logic
 
-When I started off coding this assignment, I had a very simplified idea of what the code might look like. In my mind, it would just be a snake getting longer each time it collided with an apple object. Easy peasy right? Well, I was absolutely wrong! But it took me a whole week to figure this out. My logic was that I would create a rectangle with a width and a length. The length would get longer each time the snake 'ate' an apple. I progressed quite far into the code, and I had created an apple class, a function to change the direction of the snake and a function to check if the snake had eaten the apple, which would then make the length of the snake longer. When trying the game out, the snake did get longer, but
+When I started off coding this assignment, I had a very simplified idea of what the code might look like. In my mind, it would just be a snake getting longer each time it collided with an apple object. Easy peasy right? Well, I was absolutely wrong! But it took me a whole week to figure this out. My logic was that I would create a rectangle with a width and a length. The length would get longer each time the snake 'ate' an apple. I progressed quite far into the code, and I had created an apple class, a function to change the direction of the snake and a function to check if the snake had eaten the apple, which would then make the length of the snake longer. When trying the game out, the snake did get longer, but not in the way I wanted it to. The snake just looked like a rectangle moving across the screen, and after a week I realised that I would have to start again because I was using the wrong logic. This was hard to come to terms with because this was only a few days before the deadline. After doing research online, I found out that in order to achieve the intended movement of the snake, I would have to use array lists to store the x position and y position. After I finally understood how to do this, I got started with my new midterm.
+
+### Start page and end page
+
+I also struggled a lot trying to figure out how to transition from the start page to the game, and then to the ending page. Eventually, I just settled with moving the starting page images and text off screen whenever the user clicked the screen. I also struggled with trying to get the user to be able to restart the game, as my game kept on glitching.
+
+## Things I learnt
+
+- Since Array Lists were the backbone of my snake game, I got much practice learning how to use it and now I understood it much more despite it being quite a hard concept to grasp at first
+- I used boolean variables throughout my game, and also functions that returned boolean values, and now they are my favourite type of functions!
+- I learnt a lot more about how to order my lines of code, because several of the problems I faced were due to me putting things in the wrong order
+- I have always found using the % in code, but because I needed to use it in my code, I got a lot of practice using it and now I understand how to use it
+
+## How I would improve the game
+
+In order to improve my snake game, I would introduce more fruits, and perhaps make the snake change colour depending on whatever fruit was eaten. Each fruit would have a different amount of points. I would also introduce a 'special fruit', that whenever eaten, would give the snake invincibility and super speed for a small amount of time. This would make the game much more fun! I would make the game get more difficult the longer the snake became, like displaying bombs at a higher frequency and for longer. I would also make a poisonous snake that would decrease the score if eaten, and perhaps lock the walls for an amount of time, so that the snake would no longer be able to go through.
+
+## Conclusion
+
+Overall, I am very proud of how my midterm project turned out. This was definitely the most difficult assingment I have had so far. But I learnt a lot and now I am confident that I can make more complex games because of all the skills I gained while completing this midterm.
