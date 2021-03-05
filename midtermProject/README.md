@@ -16,10 +16,15 @@ For my midterm project, I decided to create a classic snake game, which is essen
 - Firstly, I created two array lists to store the x position and y position of the snake head
 - Next, I created integer variables to store the blocksize (40 pixels), direction, width and height of window in 'blocksize' units. I measured the width and height in units of blocksize so that the snake will move throughout the screen in blocks, and not pixels. Also, it made it much easier to align the apples with the snakes later on in the code
 - I created two integer arrays to store the possible directions that the snake could move in: 0, 0, 1, -1
+
+<img src= "https://github.com/deborah-74/IntrotoIM/blob/main/midtermProject/Screenshot%202021-03-04%20at%2023.45.30.png" width="1000">
+
 - After, I had to get the snake moving! Firstly, I added an integer value (in blocksize units) to both the xPosition array list and the yPosition array list. Then, I created a for loop that updated the position of the snake and drew a square at the new position, while erasing the squares at the previous location. This is very complex to explain in words, so please forgive me
 - I created classes to store the apples and the bombs
 - I created functions that would check if the snake had eaten the apple, the bomb, or collided with itself. There was also a wall function to allow the snake to pass through the wall, and a keyPressed function which controlled the direction of the snake
 - Within draw, all the sounds and pictures were loaded including the background image. The game continued as long as the snake hadn't lost, and if it did a 'game over' screen would be displayed. At the start of the game, there would be instructions displayed also
+
+<img src= "https://github.com/deborah-74/IntrotoIM/blob/main/midtermProject/Screenshot%202021-03-04%20at%2023.46.34.png" width="1000">
 
 ## Problems I faced
 
@@ -32,6 +37,12 @@ When I started off coding this assignment, I had a very simplified idea of what 
 ### Start page and end page
 
 I also struggled a lot trying to figure out how to transition from the start page to the game, and then to the ending page. Eventually, I just settled with moving the starting page images and text off screen whenever the user clicked the screen. I also struggled with trying to get the user to be able to restart the game, as my game kept on glitching.
+
+## Outcome
+
+<img src= "https://github.com/deborah-74/IntrotoIM/blob/main/midtermProject/Screenshot%202021-03-04%20at%2023.41.22.png" width="500">
+<img src= "https://github.com/deborah-74/IntrotoIM/blob/main/midtermProject/Screenshot%202021-03-04%20at%2023.42.54.png" width="500">
+<img src= "https://github.com/deborah-74/IntrotoIM/blob/main/midtermProject/Screenshot%202021-03-04%20at%2023.43.32.png" width="500">
 
 ## Things I learnt
 
