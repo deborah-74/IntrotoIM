@@ -16,6 +16,9 @@
 - I coded each LED to blink one after the other
 - Finally, I created an if statement that would make all LED's blink four times if a button was clicked at the same time as its corresponding LED
 
+
+![alt text](https://github.com/deborah-74/IntrotoIM/blob/main/September15/Screenshot%202021-01-25%20at%2017.19.25.png)
+
 ## Challenges
 
 Before deciding to use the millis() function, I used delay() and my condition for the if statement was that if the LED was HIGH and the button was also HIGH, the LEDs should all blink four times. But this did not work out so I had to do research on what other method I could use. I then decided to use millis() which was a hard concept to grasp at first. Throughout this assignment, I learnt that using the delay function is not the best method if you want the program to complete another task at the same time, because the delay function simply just pauses the program
