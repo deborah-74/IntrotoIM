@@ -17,7 +17,7 @@
 - Finally, I created an if statement that would make all LED's blink four times if a button was clicked at the same time as its corresponding LED
 
 
-![alt text](https://github.com/deborah-74/IntrotoIM/blob/main/September15/Screenshot%202021-01-25%20at%2017.19.25.png)
+![alt text](https://github.com/deborah-74/IntrotoIM/blob/main/March%2023/Screenshot%202021-03-30%20at%2012.48.29.png)
 
 ## Challenges
 
