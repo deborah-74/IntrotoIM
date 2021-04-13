@@ -8,7 +8,7 @@
 
 ## Process
 
-<img src=https://github.com/deborah-74/IntrotoIM/blob/main/April13/IMG_0051.PNG width="500" />
+<img src=https://github.com/deborah-74/IntrotoIM/blob/main/April13/IMG_0051.PNG width="800" />
 
 - Firstly, I imported the processing serial library into my processing sketch, and then initialised my port variable to be the Arduino port
 - Next, I created an array for each colour that would store the RGB values for that specific colour. So, each array had three elements
