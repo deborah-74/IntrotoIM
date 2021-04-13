@@ -16,7 +16,7 @@
 - Then, I used several if statements to return a value to processing if the correct buttons were pressed
 - In processing, if this value was equal to 1, the window's colour would change and the value would reset to 0
 
-<img src=https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.20.38.png/>
+<img src=https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.20.38.png width="500" />
 
 <img src=https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.22.10.png width="500" />
 
