@@ -18,7 +18,7 @@
 
 ![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.20.38.png)
 
-![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.22.10.png width=100)
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.22.10.png width="100")
 
 ## Challenges
 
