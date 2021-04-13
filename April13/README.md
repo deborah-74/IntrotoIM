@@ -18,7 +18,7 @@
 
 ![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.20.38.png)
 
-![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.22.10.png)
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.22.10.png width=100)
 
 ## Challenges
 
@@ -29,3 +29,5 @@ Another problem that I faced was trying to coordinate between Arduino and Proces
 ## What I Learnt
 
 I learnt a lot during this assignment! I got much practice sending information between processing and arduino, which was difficult but fun. I learnt that using the write function is much easier than using the other method. I also figured out how to create the colours I needed using arrays, which was a really nice method. I am really excited to see what more can be done with both processing and arduino!
+
+Here is a link to the video demo: https://youtu.be/ABVtLyo5qlM
