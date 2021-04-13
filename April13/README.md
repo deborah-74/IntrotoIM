@@ -16,6 +16,10 @@
 - Then, I used several if statements to return a value to processing if the correct buttons were pressed
 - In processing, if this value was equal to 1, the window's colour would change and the value would reset to 0
 
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.20.38.png)
+
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/April13/Screenshot%202021-04-14%20at%2000.22.10.png)
+
 ## Challenges
 
 One of the biggest challenges that I faced during this assignment was trying to get the colour to change only when the correct button was pressed. Because the loop was run very quickly, the colour changed each time regardless of if the correct button was pressed. In an attempt to overcome this problem, I tried using noLoop() to stop the loop and only continue looping if the correct button was pressed. Though this did stop the colour from being changed, nothing happened whenever the correct button was pressed. I think this might have something to do with communication between arduino and processing stopping becausethe loop is no longer running. Eventually, I sent a variable from arduino to processing that would read 1 is the correct button was pressed. Then after the colour of the window was changed, I reset this variable to be 0
