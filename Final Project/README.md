@@ -26,3 +26,17 @@ Listen carefully. The Octavius II Rover has been stranded in an unknown land on 
 - Next, I used the keyPressed() function and if statements to write a specific character into the serial port depending on what key was pressed
 - In Arduino, this character was stored into a variable called 'direction', which moved the rover forward, backwards, left or right depending on the key
 - I noticed that the wheels kept moving even once I let go of the key, so I used the keyReleased() function to write a character to the port that if read in Arduino, would make the values of each pin the wheels were connected to LOW
+
+### Creating each page
+
+- At this point, I thought the appropriate step would be creating the questions and then determining whether the player's answers were right or wrong. I couldn't see a way of proceeding with this task without designing the layout of each page of the game, so I decided to start designing (but not spend too much time on this so I don't run out of time!)
+- Google was a great resource for me throughout this project! I found a lovely background image on google that matched with the space theme perfectly, and used this for the background for each page in the quiz
+- I also found a website called Space Font, where I could download png images of space-themed text of my choice. I used this throughout my project
+- To start off with designing, I created a start page that consists of a png maze and a start button
+- The next page was the instructions page, which had a brief paragraph explaining the mission, and then a continue button
+- The pages following these were the pages for each question, with three options for the player to choose from. Each question was taken from the space section of a trivia website that I found on google
+- After this, I created a 'correct answer' page and a 'wrong answer' page that would be displayed depending on if the player answered the question correctly. The correct answer page had a png image of a stopwatch, and the four direction keys of the keyboard to indicate to the user that they can now move the rover. The wrong answer page just displayed the wrong answer png text
+- Finally, I created a final page that prompted the user to click anywhere on the screen to start over
+
+### Connecting the pages
+- After creating each page and testing to see if they looked good visually, my next task was to connect each page to the next
