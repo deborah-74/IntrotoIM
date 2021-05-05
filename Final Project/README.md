@@ -66,7 +66,7 @@ Listen carefully. The Octavius II Rover has been stranded in an unknown land on 
 - To finish off, I added a hover effect to each button using the rect() and noFill() functions to create that effect
 - I also added a typewriter effect to the instructions text
 
-### Challenges
+## Challenges
 
 I experienced so many challenges throughout this project, and it was very rewarding to overcome them.
 
@@ -76,12 +76,17 @@ This was by far the most difficult part of creating this project, because there 
 2) Creating the countdown
 This was one of the problems that I could not solve, but luckily I was able to find an easier solution using the isPlaying() function. I am so glad this idea came to my mind otherwise I would have spent much more time trying to figure out how to code a countdown. It ended up making more sense to use audio in the end because if I had a countdown displayed on the screen, it would be useless since during this time the player's attention would be solely focused on the rover and moving it. So,, using audio was much more practical and immersive
 
-### What I enjoyed the most
+## What I enjoyed the most
 
 I definitely enjoyed creating the rover and getting it to move the most throughout this project, especially because I found Arduino much more difficult than Processing in this class. It was really rewarding to finally get it right! Before taking this class, I would have never thought that I would be capable of creating something like this, so I am really proud of myself!
 
-### Demo
+## Demo
 
 Enjoy this demo of my final project, Space Maze!
 
 https://youtu.be/_Yti9OEBfn8
+
+## Resources
+
+Link to questions: https://icebreakerideas.com/space-trivia/
+Link to background music: https://youtu.be/UDVtMYqUAyw
