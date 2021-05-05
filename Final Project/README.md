@@ -33,6 +33,7 @@ Listen carefully. The Octavius II Rover has been stranded in an unknown land on 
 - Google was a great resource for me throughout this project! I found a lovely background image on google that matched with the space theme perfectly, and used this for the background for each page in the quiz
 - I also found a website called Space Font, where I could download png images of space-themed text of my choice. I used this throughout my project
 - To start off with designing, I created a start page that consists of a png maze and a start button
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/Final%20Project/space.png)
 - The next page was the instructions page, which had a brief paragraph explaining the mission, and then a continue button
 - The pages following these were the pages for each question, with three options for the player to choose from. Each question was taken from the space section of a trivia website that I found on google
 - After this, I created a 'correct answer' page and a 'wrong answer' page that would be displayed depending on if the player answered the question correctly. The correct answer page had a png image of a stopwatch, and the four direction keys of the keyboard to indicate to the user that they can now move the rover. The wrong answer page just displayed the wrong answer png text
