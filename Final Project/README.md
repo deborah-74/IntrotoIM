@@ -16,4 +16,13 @@ Listen carefully. The Octavius II Rover has been stranded in an unknown land on 
 ### Getting the rover to move
 
 - After successfully creating the Octavius II Rover, the next step was to get it to move using Arduino
-- 
+- I connected the wheels on the left to one pin and the ones on the right to another pin, to make sure that the rover will be able to rotate
+- Finally, to make sure everything was connected properly, I alternated between moving the wheels forward, backwards, rotating left and rotating right by changing the pin values to HIGH and LOW accordingly
+
+### Controlling movement through Processing
+
+- After verifying that the rover could move properly, my next task was to use the up, down, left and right keys to do the job
+- Firstly, I had to set up communication between Processing and Arduino using Serial.begin(9600) and while(Serial.available() > 0). I also initialised Serial port in processing
+- Next, I used the keyPressed() function and if statements to write a specific character into the serial port depending on what key was pressed
+- In Arduino, this character was stored into a variable called 'direction', which moved the rover forward, backwards, left or right depending on the key
+- I noticed that the wheels kept moving even once I let go of the key, so I used the keyReleased() function to write a character to the port that if read in Arduino, would make the values of each pin the wheels were connected to LOW
