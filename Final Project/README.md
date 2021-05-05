@@ -39,4 +39,18 @@ Listen carefully. The Octavius II Rover has been stranded in an unknown land on 
 - Finally, I created a final page that prompted the user to click anywhere on the screen to start over
 
 ### Connecting the pages
-- After creating each page and testing to see if they looked good visually, my next task was to connect each page to the next
+- After creating each page and testing to see if they looked good visually, my next task was to connect each page to the next, which was the most difficult task throughout the whole project
+- To achieve this, I created boolean variables for each page that would only display a page if true. Otherwise it would be false and that page would not be displayed
+- Then, I used if statements in the mousePressed() function to make the correct page true if a specific part of the screen (where the correct answer button was positioned) was pressed and the wrong answer page true if the wrong option was pressed
+
+### Creating the countdown
+
+- I wanted the correct answer and wrong answer pages to only be displayed for 5 seconds, and for the rover to only be able to move during this time
+- I did research to find different methods that I would be able to create a countdown, but I did not understand any of them and implementing them was a huge failure, so I thought of an easier method: finding audio of a 5-second countdown and a buzzer and only displaying the pages while the audio was playing. This was also an amazing idea because the audio heightened the suspense and made the game more immersive
+
+### Adding the sounds
+
+- The sounds were crucial to bringing my project together and making it a cohesive whole
+- Firstly, I found background music on YouTube - I used the Interstellar soundtrack because it really does sound like space, even though I have no idea what space sounds like
+- Then, I found a countdown noise that would heighten tension whenever an answer was correct
+- Finally, I found a buzzer sound that would play whenever an answer was incorrect
