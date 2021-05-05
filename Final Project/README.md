@@ -11,6 +11,8 @@ Listen carefully. The Octavius II Rover has been stranded in an unknown land on 
 ### Creating the Octavius II Rover
 
 - Firstly, I had to build the engine, using a breadboard, an arduino uno board and a couple of wires. The schematic below details how this was set up
+
+![Alt Text](https://github.com/deborah-74/IntrotoIM/blob/main/Final%20Project/Screenshot%202021-05-06%20at%2000.37.19.png)
 - Secondly, I had to create the body of the rover using cardboard, elastic bands and glue. This took about 5 tries before I successfully created the body. Most of the difficulty came from the vehicle not being able to balance because I only had two wheels when I started the project. But after becoming fed up of gravity ruining my attempts, I was able to receive two more wheels from my Professor, who so nicely let me keep them. I stuck the breadboard underneath the vehicle, while the arduino uno board remained at the top. The motors were secured to the bottom of the vehicle with glue, and everything else was kept in place with elastic bands
 
 ### Getting the rover to move
